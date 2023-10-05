@@ -26,6 +26,7 @@ Follow these steps to set up and run the project locally.
 - nodemon server.js
 
 ### Usage
+
 Start the frontend:
 -cd frontend
 -npm install
