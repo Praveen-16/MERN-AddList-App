@@ -6,10 +6,7 @@ A simple Todo List application built using the MERN (MongoDB, Express, React, No
 # Features
 
 - Add, edit, and delete tasks.
-- Mark tasks as completed.
-- Filter tasks by status (completed/uncompleted).
 - User-friendly and responsive design.
-- Backend API for managing tasks.
 
 - 
 ## Getting Started
@@ -23,8 +20,8 @@ Follow these steps to set up and run the project locally.
 
 - Change directory to the project folder:
 - cd backend
-- cd server.js
 - npm install
+- nodemon server.js
 
 Usage
 Start the frontend:
