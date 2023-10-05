@@ -17,14 +17,16 @@ Follow these steps to set up and run the project locally.
 
 - Node.js and npm (Node Package Manager) installed on your machine.
 - MongoDB database (You can use MongoDB Atlas or run a local MongoDB server).
+- connect mongodb to your project
 
+### run server
 - Change directory to the project folder:
 - cd backend
 - npm install
 - nodemon server.js
 
-Usage
+### Usage
 Start the frontend:
-cd frontend
-npm install
-npm start
+-cd frontend
+-npm install
+-npm start
